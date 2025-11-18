@@ -37,7 +37,7 @@ Este repositorio presenta la solución de una prueba técnica realizada en clase
 ### Paso a Paso  
 1. Clona el repositorio:  
    ```bash
-   git clone https://github.com/LuisaCastano40/FrontEndPruebaTecnica_BIT-_202407.git
+   git clone https://github.com/dharroyave/Prueba-Testing-Frontend.git
 2. Instala las dependencias necesarias: 
     ```bash
     npm install
@@ -59,3 +59,13 @@ Este proyecto fue desarrollado como material educativo para estudiantes de BIT +
 - **LinkedIn:** [Perfil de linkedIn](https://www.linkedin.com/in/duvan-arroyave-desarrollador-web-full-stack/) 
 
 ¡Explora los ejemplos y adapta las soluciones a tus propios proyectos!
+
+## Taller
+1. Creacion del servicio test
+2. Ejecutar el test con ng test
+3. Prueba ejemplo: Funciona ejemplo de suma
+<img src="/imgs/img1.png">
+4. Prueba ejemplo: Falla ejemplo de suma
+<img src="/imgs/img2.png">
+5. Prueba service login: donde prueba el login, obtener el token, validar si esta logeado y verificar cierre de sesión
+<img src="/imgs/img3.png">
